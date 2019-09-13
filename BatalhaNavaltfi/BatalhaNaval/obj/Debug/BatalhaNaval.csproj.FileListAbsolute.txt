@@ -1,0 +1,10 @@
+c:\users\arthu\onedrive\documentos\visual studio 2015\Projects\BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe.config
+c:\users\arthu\onedrive\documentos\visual studio 2015\Projects\BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe
+c:\users\arthu\onedrive\documentos\visual studio 2015\Projects\BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.pdb
+c:\users\arthu\onedrive\documentos\visual studio 2015\Projects\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csprojResolveAssemblyReference.cache
+c:\users\arthu\onedrive\documentos\visual studio 2015\Projects\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.menu.resources
+c:\users\arthu\onedrive\documentos\visual studio 2015\Projects\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.jogo.resources
+c:\users\arthu\onedrive\documentos\visual studio 2015\Projects\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.Properties.Resources.resources
+c:\users\arthu\onedrive\documentos\visual studio 2015\Projects\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.GenerateResource.Cache
+c:\users\arthu\onedrive\documentos\visual studio 2015\Projects\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.exe
+c:\users\arthu\onedrive\documentos\visual studio 2015\Projects\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.pdb
